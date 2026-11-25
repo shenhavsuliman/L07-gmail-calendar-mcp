@@ -14,6 +14,8 @@ Google Calendar tools. **There is no tool that sends or deletes anything.**
 
 Time zone: Asia/Jerusalem.
 
+Product requirements: see [PRD.md](PRD.md). Reflection: see [reflection.md](reflection.md).
+
 ## Secrets (never in this folder)
 
 `GOOGLE_PRIVATE_DIR` points to the private folder (here `C:\secrets`) that holds
